@@ -1,0 +1,6 @@
+if Caon65
+
+config ZMK_KEYBOARD_NAME
+    default "Caon65
+    
+endif
